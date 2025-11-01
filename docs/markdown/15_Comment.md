@@ -1,10 +1,10 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Mais Jamy, comment ça marche ?
 ![h-600](./assets/volcamp/cest-pas-sorcier-800.jpg)
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Big Picture Kubernetes
 ![h-700](./assets/volcamp/k8s_archi1.png)
 Notes:
@@ -17,7 +17,7 @@ Les requêtes sont émises par :
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## "C'est là que les bactéries attaquent !"
 ![h-600](./assets/volcamp/admission_schema.jpg)
 

@@ -1,11 +1,11 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Cleaning : 2 façons de suppression automatique
 ![h-600](./assets/volcamp/clean-policy.png)
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Cleanup Policy sur expression cron
 ```yaml [2,4,11-13,19]
 apiVersion: kyverno.io/v2
@@ -33,7 +33,7 @@ spec:
 
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Cleanup Policy sur présence de ttl (label)
 ```yaml [2,5-6]
 apiVersion: apps/v1

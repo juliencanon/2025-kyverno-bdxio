@@ -1,5 +1,5 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Kyverno ne se limite pas à un Admission Controller
 ![h500](./assets/volcamp/toolbox-trans.png)
 

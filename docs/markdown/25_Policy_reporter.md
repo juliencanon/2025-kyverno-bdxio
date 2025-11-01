@@ -1,14 +1,14 @@
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Rendre visible. Auditez !
 ![h-800](./assets/volcamp/popeye.png)
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Policy-reporter UI
 ![h-800](./assets/volcamp/policy-reporter.png)
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## PolicyExceptions (Pouvoir gérer une exception ponctuelle)
 ```yaml
 apiVersion: kyverno.io/v2

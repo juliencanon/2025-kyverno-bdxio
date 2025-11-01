@@ -1,4 +1,4 @@
-<!-- .slide: data-background="./assets/volcamp/speaker-v3.png"-->
+<!-- .slide: data-background="./assets/bdxio/speaker.png"-->
 Notes:
 Titre : Architecte Cloud 
 26 ans d'expérience

@@ -1,5 +1,5 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Niveau 400 
 ### Implémentez les policies adaptées à votre métier
 ![h600](./assets/volcamp/200-dragon-600.png)
@@ -7,7 +7,7 @@
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## La conformité traite :
 - des normes (nomenclature, règles d'architecture, ...)
 - du respect des réglementations
@@ -18,7 +18,7 @@
 
 
 ##==##
-<!-- .slide: class="flex-row center" data-background="./assets/volcamp/bkgnd-main2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
 ## Autres exemples de référentiels à implémenter selon les contraintes
 
 - CIS Kubernetes Benchmark
