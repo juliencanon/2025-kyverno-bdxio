@@ -22,6 +22,10 @@
         color: #9b59b6 !important;
     }
     
+    .text-black {
+        color: #000000 !important;
+    }
+    
     // Pour les titres spécifiquement
     h1.colored, h2.colored, h3.colored {
         &.red { color: #e74c3c !important; }

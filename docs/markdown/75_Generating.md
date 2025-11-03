@@ -1,5 +1,5 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Generation de nouvelles resources
 ### Mini operator / Initialiser des resources automatiquement
 ![h-600](./assets/volcamp/generating-demo.png)

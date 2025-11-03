@@ -1,12 +1,13 @@
 
-<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-2.png"-->
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Sécuriser la supply chain
 ![h-600](./assets/volcamp/origine-image.png)
 
 ##==##
 
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-7.png"-->
 ### S'assurer que les images proviennent de registries sûres
+<!-- .element: class="text-black" -->
 ```yaml [2,4,14-23]
 apiVersion: kyverno.io/v1
 kind: ClusterPolicy
@@ -34,8 +35,9 @@ spec:
 ```
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Vérification du contenu (SBOM) et des signatures (Notary)
+<!-- .element: class="text-black" -->
 
 ```yaml [2,4,12-15,19-22]
 apiVersion: policies.kyverno.io/v1alpha1
@@ -63,8 +65,9 @@ spec:
 ```
 
 ##==##
-<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-2.png"-->
+<!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Vérification du contenu (SBOM) et des signatures (Notary)
+<!-- .element: class="text-black" -->
 
 ```yaml [4,8,11]
   validations:
