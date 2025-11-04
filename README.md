@@ -1,4 +1,9 @@
-# See the slides here : 
+# Talk Kyverno conformité à BDX io 2025
 
-[Talk Kyverno conformité à Volcamp 2025](https://juliencanon.github.io/2025-kyverno-volcamp/#/)
+
+[Description](https://app.imagina.com/bdx-2025/content/36101821)
+
+[Slides](https://juliencanon.github.io/2025-kyverno-bdxio/#/)
+
+[Open Feedback](https://openfeedback.io/uWWjzz37YGweWaevV6MI/0/781)
 
