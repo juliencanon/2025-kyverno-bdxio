@@ -18,3 +18,7 @@ echo -n "Un pull warmup des image a-t-il été effectué "
 wait
 echo "✅"
 
+echo -n "Un clean des démos a-t-il été effectué "
+wait
+echo "✅"
+

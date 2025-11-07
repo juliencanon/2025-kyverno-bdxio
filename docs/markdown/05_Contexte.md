@@ -1,22 +1,23 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Contexte Kubernetes
-![h-500](./assets/volcamp/k8s-logo-trans.png)
-![h-500](./assets/volcamp/illus-cluster-2.png)
+![h-500](./assets/bdxio/k8s-logo-trans.png)
+![h-500](./assets/bdxio/illus-cluster-2.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
-![h-700](./assets/volcamp/arrivee-client.png)
+![h-700](./assets/bdxio/arrivee-client.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
-![h-700](./assets/volcamp/team-mature.png)
-![h-700](./assets/volcamp/outils-trans3.png)
+![h-700](./assets/bdxio/team-mature.png)
+Notes:
+Equipes matures (staff, sre, cicd,...)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## L'entropie du système augmente...
-![h-600](./assets/volcamp/arrivee_client.png)
+![h-600](./assets/bdxio/arrivee_client.png)
 Notes: 
 - arrivée d'un junior dans l'entreprise
 - il reste plein de secrets obsoletes
@@ -45,5 +46,5 @@ Notes:
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Comment Kyverno nous aide-t-il ?
-![h-500](./assets/volcamp/kyverno2.png)
-![h-500](./assets/volcamp/Question_mark_alternate.svg)
+![h-500](./assets/bdxio/kyverno2.png)
+![h-500](./assets/bdxio/Question_mark_alternate.svg)

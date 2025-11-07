@@ -1,36 +1,36 @@
 
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Niveau 200 : Poursuivons avec d'autres policies
-![h-600](./assets/volcamp/policies-sur-etagere-750.png)
+![h-600](./assets/bdxio/policies-sur-etagere-750.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Le site officiel de Kyverno : kyverno.io
-![h-800](./assets/volcamp/kyverno-website.png)
+![h-800](./assets/bdxio/kyverno-website.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Collection sur étagère : 
-![h-800](./assets/volcamp/policies-etagere.png)
+![h-800](./assets/bdxio/policies-etagere.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
-![h-800](./assets/volcamp/deprecated-api.png)
+![h-800](./assets/bdxio/deprecated-api.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Profitez du joli terrain de jeu
-![h-800](./assets/volcamp/playground.png)
+![h-800](./assets/bdxio/playground.png)
 
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## playground.kyverno.io
-![h-800](./assets/volcamp/playground-screen.png)
+![h-800](./assets/bdxio/playground-screen.png)
 
 
 ##==##
@@ -53,7 +53,7 @@
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Processus d'amélioration continue
-![h-600](./assets/volcamp/roue-demming.png)
+![h-600](./assets/bdxio/roue-demming.png)
 
 
 ##==##

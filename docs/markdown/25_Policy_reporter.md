@@ -1,11 +1,16 @@
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Rendre visible. Auditez !
-![h-800](./assets/volcamp/popeye.png)
+![h-800](./assets/bdxio/popeye.png)
 
 ##==##
 <!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
 ## Policy-reporter UI
-![h-800](./assets/volcamp/policy-reporter.png)
+![h-800](./assets/bdxio/policy-reporter.png)
+
+##--##
+<!-- .slide: class="flex-row center" data-background="./assets/bdxio/bkgnd-7.png"-->
+## OpenReports.io
+![h-800](./assets/bdxio/openreports.png)
 
 ##==##
 <!-- .slide: class="with-code-dark max-height" data-background="./assets/bdxio/bkgnd-7.png"-->
