@@ -39,7 +39,7 @@ spec:
 ## Vérification du contenu (SBOM) et des signatures (Notary)
 <!-- .element: class="text-black" -->
 
-```yaml [2,4,12-15,19-22]
+```yaml [2,4,11-15,19-22]
 apiVersion: policies.kyverno.io/v1alpha1
 kind: ImageValidatingPolicy
 metadata:
